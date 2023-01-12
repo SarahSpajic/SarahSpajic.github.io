@@ -672,7 +672,7 @@ input[type='range']::-webkit-slider-runnable-track {
 	-ms-flex-align: center;
 	align-items: center;
 	background-color: #f4f4f4;
-	background-image: url('../images/let-s-go-together-orYix9zFUZo-unsplash.jpg');
+	background-image: url('images/let-s-go-together-orYix9zFUZo-unsplash.jpg');
 	background-position: 0px 0px;
 	background-size: cover;
 	color: #fff;
@@ -681,7 +681,7 @@ input[type='range']::-webkit-slider-runnable-track {
 .stay-header.cc-subpage {
 	height: 480px;
 	background-color: #000;
-	background-image: url('../images/resort-gb83207e4b_1920.jpg');
+	background-image: url('images/resort-gb83207e4b_1920.jpg');
 	background-position: 0px 0px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -690,7 +690,7 @@ input[type='range']::-webkit-slider-runnable-track {
 }
 
 .stay-header.home-hero {
-	background-image: url('../images/home-explore-img.jpg');
+	background-image: url('images/home-explore-img.jpg');
 }
 
 .intro-content {
